@@ -37,4 +37,4 @@ Aplikasi Android sederhana berbasis **Kotlin** yang menampilkan daftar item (*li
 
 1. **Clone Repositori Ini**:
    ```bash
-   git clone [https://github.com/tsulsinisa14-maker/RecyclerViewSample.git](https://github.com/username-kamu/RecyclerViewSample.git)
+   git clone [https://github.com/tsulsinisa14-maker/RecyclerViewSample.git](https://github.com/tsulsinisa14-maker/RecyclerViewSample.git)
