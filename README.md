@@ -7,7 +7,7 @@ Aplikasi Android sederhana berbasis **Kotlin** yang menampilkan daftar item (*li
 ## 📱 Tampilan Aplikasi (Preview)
 
 <p align="center">
-  <img src="screenshots/img.png" alt="RecyclerView Sample Preview" width="320" />
+  <img src="Screenshots/img.png" alt="RecyclerView Sample Preview" width="320" />
 </p>
 
 ---
